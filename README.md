@@ -4,7 +4,7 @@ An unofficial companion app for Melvor Idle 2, for Windows. It shows your levels
 
 This repository holds installers and release notes only. **No version has been released yet.**
 
-- **Download:** on the [Releases page](https://github.com/ASecretLibrary/MelvorIdle2Manager/releases/latest), when the first version is out.
+- **Download:** on the [Releases page](https://github.com/ASecretLibrary/MI2Manager/releases/latest), when the first version is out.
 - **Help and news:** [join our Discord](https://discord.gg/3rUwTUHgdD).
 
 Game data, icons and images are read from your own installed copy of the game.

@@ -14,7 +14,7 @@ Game data, icons and images are read from your own installed copy of the game.
 The manager runs on your PC and reads the game only while both are open. It goes online only for these:
 
 - **Updates:** it asks GitHub whether a new version is out, and installs only signed ones.
-- **Supporter key**, only if you enter one: the key, your Steam account ID, your character name and a random ID for this PC go to our licence service, to check the key and limit how many PCs use it.
-- **Feedback**, only when you send it: your message, the app version and settings, the state of the game and of your goals, the same random PC ID and, if you leave the box ticked, the end of the logs (with your Windows user name removed). The window shows all of it before you send. Reports reach only the two developers.
+- **Supporter key**, only if you enter one: the key, your Steam account (its ID and your Steam display name), your character name and a random ID for this PC go to our licence service, to check the key and limit how many PCs use it.
+- **Feedback**, only when you send it: your message, your Discord name if you write it, the app version and settings, your Windows version, the state of the game and of your goals, the same random PC ID and, if you leave the box ticked, the end of the logs (with your Windows user name removed). The window shows all of it before you send. Reports go to a private channel that only our staff can read.
 
 It never sends your save files.
